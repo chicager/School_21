@@ -6,7 +6,7 @@
 /*   By: curreg <curreg@student.21-school.ru>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/12 20:02:33 by curreg            #+#    #+#             */
-/*   Updated: 2020/05/27 01:13:03 by curreg           ###   ########.fr       */
+/*   Updated: 2020/08/04 15:14:45 by curreg           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,6 +61,14 @@ char					*ft_itoa(int n);
 char					*ft_strmapi(char const *s,
 									char (*f)(unsigned int, char));
 char					**ft_split(char const *s, char c);
+
+/*
+** Part 3 - My additional functions
+*/
+
+size_t					ft_findchcount(char *str, char c);
+void					ft_strclr(char *s);
+char					*ft_strnew(size_t size);
 
 /*
 ** Bonus part

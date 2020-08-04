@@ -6,7 +6,7 @@
 #    By: curreg <curreg@student.21-school.ru>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/05/25 23:04:16 by curreg            #+#    #+#              #
-#    Updated: 2020/05/27 20:15:16 by curreg           ###   ########.fr        #
+#    Updated: 2020/08/04 15:17:58 by curreg           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -49,7 +49,10 @@ SRC = 	ft_atoi.c\
 		ft_strjoin.c\
 		ft_strmapi.c\
 		ft_strtrim.c\
-		ft_substr.c		
+		ft_substr.c\
+		ft_strclr.c \
+		ft_strnew.c \
+		ft_findchcount.c	
 
 OBJ = $(SRC:.c=.o)
 
