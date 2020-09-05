@@ -27,7 +27,7 @@ docker run -it -p 80:80 -p 443:443 ft_server
 ```
 
 ------------
-Go to `http://localhost `and you will see the redirect to `https://localhost` and the Wordpress start window, create any random website.
+Go to `http://localhost` and you will see redirect to `https://localhost` and the Wordpress start window, create any random website.
 
 To test **phpmyadmin** go to `http://localhost/phpmyadmin`
 Login: wordpress_user
