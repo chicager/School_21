@@ -1,6 +1,6 @@
 # School_21 (Ecole_42)
 
-This repository was created to upload my projects while studying in School 21.
+This repository was created to upload my projects while studying in School 21 (Ecole 42).
 
 Each project has a serial number that tells when the project was completed.  
 Each project has an attached file with the subject.  
