@@ -27,7 +27,7 @@ docker run -it -p 80:80 -p 443:443 ft_server
 ```
 
 ------------
-Go to `http://localhost` and you will see redirect to `https://localhost` (it will inform you that a certificate is untrasted select Proceed anyway) and the Wordpress start window. Create any random website.
+Go to `http://localhost` and you will see redirect to `https://localhost` (it will inform you that a certificate is untrusted select Proceed anyway) and the Wordpress start window. Create any random website.
 
 To test **phpmyadmin** go to `https://localhost/phpmyadmin`<br/>Login: wordpress_user<br/>Password: 12345<br/>(You can find those info in the config file located in srcs/wp-config.php)
 
