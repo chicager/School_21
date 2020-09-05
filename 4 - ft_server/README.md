@@ -29,7 +29,7 @@ docker run -it -p 80:80 -p 443:443 ft_server
 ------------
 Go to `http://localhost` and you will see redirect to `https://localhost` and the Wordpress start window, create any random website.
 
-To test **phpmyadmin** go to `http://localhost/phpmyadmin`  Login: wordpress_user  Password: 12345  (You can find those info in the config file located in srcs/wp-config.php)
+To test **phpmyadmin** go to `http://localhost/phpmyadmin`<br/>Login: wordpress_user<br/>Password: 12345<br/>(You can find those info in the config file located in srcs/wp-config.php)
 
 Autoindex is on by default, you can test it by moving to any folder without any index.&ast;  file, for example `http://localhost/phpmyadmin/themes` and you will be able to see all files inside it. To swap **autoindex on/off** type in the running container: 
 ```
