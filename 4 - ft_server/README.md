@@ -12,6 +12,7 @@ Please see the **en.subject.pdf** file for getting the assignments.
 
 - Download the files
 - Run Docker terminal
+
 -- and
 ```
 cd ft_server
