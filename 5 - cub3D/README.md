@@ -27,7 +27,7 @@ W A S D  or ↑↓                   move
 ```
 #### Configuration file `map.cub`
 ```
-Config file called `map.cub` and it must lie at the root of the project.
+Config file called `map.cub` and it must lie at the root of the project
 
 R                                resolution
 C                                ceiling rgb color
@@ -60,6 +60,7 @@ To make a screenshot of current player's view you need to add flag --save after 
 
 ```
  <br/>
+ 
 ------------
 
 <sub>The project is very scalable, but due to very short deadlines and lack of time, I did not have time to implement such things as background music, mouse movement, etc. If you have enough free time, it can be a complete copy of the game.
