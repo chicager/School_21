@@ -1,16 +1,14 @@
-<p style="text-align: center; font-size: 60px; margin-bottom: 0; font-weight: 600;">cub3D</p>
-<p style="text-align: center; font-size: 30px; line-height: 0.1">a game engine like Wolfenstein 3D</p>
+# cub3D 
+### A game engine like Wolfenstein 3D
 
-------------
-<img src="screenshot.png" alt="screenshot"/>
-❗The structure of the code may look strange, this is caused by the coding rules of School 21 (no more than 25 lines for one function etc.).
+<img src="screenshot.png" alt="screenshot"/><br/>
+<sub>❗The structure of the code may look strange, this is caused by the coding rules of School 21 (no more than 25 lines for one function etc.).</sup>
+
+Please see the **en.subject.pdf** file for getting the assignments.
 
 ------------
 
 The project was made using raycasting technology and with MinilibX (Simple graphics library)
-
-------------
-Please see the **en.subject.pdf** file for getting the assignments.
 
 ------------
 #### Build and Run:
@@ -63,5 +61,6 @@ To make a screenshot of current player's view you need to add flag --save after 
 ```
  <br/>
 ------------
+
 <sub>The project is very scalable, but due to very short deadlines and lack of time, I did not have time to implement such things as background music, mouse movement, etc. If you have enough free time, it can be a complete copy of the game.
 <br/>I have a super smooth version in my backup, but it ran into some difficulties in implementation and I did not have enough time to implement it to the finish.</sup>
