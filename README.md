@@ -1,5 +1,7 @@
 # School_21 (Ecole_42)
 
+<img src="logo.jpeg" alt="school21"/><br/>
+
 This repository was created to upload my projects while studying at School 21 (Ecole 42).
 
 Each project has a serial number that tells when the project was completed.  
