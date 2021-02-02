@@ -5,6 +5,8 @@ The aim of this project is to code a function that returns a line ending with a 
 
 Pls see <a href="./subject.pdf">subject.pdf</a> for the assignment<br/>
 
+------------
+
 All files related to the function are located in **get_next_line** folder.
 You can test the code with attached *main.c* and *text.txt* files. Also you can change the first argument in *get_next_line* in *main.c* on 25th line to '0' to read from *stdin*.  <br/>
 
