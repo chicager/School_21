@@ -1,5 +1,5 @@
 # ft_printf 
-<img src="logo.png" alt="logo"/><br/>
+<img src="logo.jpg" alt="logo"/><br/>
 
 ### Recoded printf() function.
 
