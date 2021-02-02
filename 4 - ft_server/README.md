@@ -15,15 +15,15 @@ Please see the **en.subject.pdf** file for getting the assignments.
 
 -- and
 ```
-cd ft_server
-make build
-make run
+> cd ft_server
+> make build
+> make run
 ```
 -- or
 ```
-cd ft_server
-docker build -t ft_server .
-docker run -it -p 80:80 -p 443:443 ft_server
+> cd ft_server
+> docker build -t ft_server .
+> docker run -it -p 80:80 -p 443:443 ft_server
 ```
 
 ------------
