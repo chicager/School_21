@@ -4,7 +4,7 @@
 <img src="screenshot.png" alt="screenshot"/><br/>
 <sub>❗The structure of the code may look strange, this is caused by the coding rules of School 21 (no more than 25 lines for one function etc.).</sup>
 
-Please see the **en.subject.pdf** file for getting the assignments.
+Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
 
 ------------
 
