@@ -6,12 +6,10 @@
 
 ❗*You have to have [**Docker**](http://www.docker.com/), [**VirtualBox**](http://www.virtualbox.org/), [**minikube**](http://kubernetes.io/ru/docs/tasks/tools/install-minikube/), [**kubectl**](http://kubernetes.io/ru/docs/tasks/tools/install-kubectl/) &nbsp;installed on your machine to run this project.*
 
-
-Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
-
 ------------
 
-The project goal is to create a <a href="http://kubernetes.io/">kubernetes</a> (k8s) cluster with: nginx, phpmyadmin, wordpress, ftps, mysql, grafana, telegraf and influxdb.
+The project goal is to create a <a href="http://kubernetes.io/">kubernetes</a> (k8s) cluster with: nginx, phpmyadmin, wordpress, ftps, mysql, grafana, telegraf and influxdb. <br/><br/>
+*Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.*
 
 ------------
 #### Build and Run:
