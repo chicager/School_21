@@ -1,6 +1,6 @@
 # ft_services
 
-<img src="k8s.jpg" alt="k8s"/><br/>
+<img src="k8s.png" alt="k8s"/><br/>
 
 ------------
 
@@ -63,4 +63,3 @@ minikube delete
 ```
 
 ------------
-<img src="kubernetes.jpg" alt="kubernetes"/><br/>
