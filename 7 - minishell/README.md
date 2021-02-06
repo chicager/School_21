@@ -1,7 +1,7 @@
 # minishell 
 
-<img src="cli_commands.jpg" alt="cli_commands"/><br/>
-<sub>❗The structure of the code may look strange, this is caused by the coding rules of School 21 (no more than 25 lines for one function etc.).</sup>
+<img src="logo.jpg" alt="logo"/><br/>
+<sub>❗**The structure of the code may look strange, this is caused by the coding rules of School 21 (no more than 25 lines for one function etc.).**</sup>
 
 ------------
 
