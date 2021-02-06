@@ -2,9 +2,7 @@
 
 <img src="logo.jpg" alt="logo"/><br/>
 
-------------
-
-### The set of standard functions recoded in Assembler
+## The set of standard functions recoded in Assembler
 
 ------------
 
