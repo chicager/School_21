@@ -1,6 +1,6 @@
 # cub3D 
 
-<img src="screenshot.png" alt="screenshot"/><br/>
+<img src="screen.gif" alt="screenshot"/><br/>
 
 ------------
 
@@ -21,16 +21,18 @@ Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
 - Download the project folder, move there in your terminal and run commands in terminal:
 
 ```
-make
-./cub3D map.cub
-
+> make
+> ./cub3D map.cub
 ```
-#### Controls
+------------
+
+#### Controls:
+
 ```
 W A S D  or ↑↓                   move
 ← →                              turn right / turn left
 ```
-#### Configuration file `map.cub`
+#### Configuration file `map.cub`:
 ```
 Config file called `map.cub` and it must lie at the root of the project
 
@@ -51,18 +53,24 @@ space                            empty space (player can't see them)
 
 map can't be splitted by empty lines
 ```
+------------
+
+### Information:
+
 To use your own textures or sprites you have to convert them to .xpm with size of 64px x 64px and add to the config file pathes to them.
 
 The config file has protection for incorrect data.
 
-Example of a valid config file:<br/>
+Example of a valid config file:<br/><br/>
 <img src="conf.png" alt="valid configuration file"/>
 
-### Make a Screenshot
+------------
+
+### Make a Screenshot:
+
 To make a screenshot of current player's view you need to add flag --save after config file. The screenshot will appear at the root of the project with the name **screenshot.bmp**
 ```
  ./cub3D map.cub --save
-
 ```
  <br/>
  
