@@ -27,9 +27,9 @@ Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
 
 ### Implementations:
 
-* **Philo_one** - Threads and mutexes
-* **Philo_two** - Threads and semaphores
-* **Philo_three** - Processes, threads and semaphores
+* **philo_one** - Threads and mutexes
+* **philo_two** - Threads and semaphores
+* **philo_three** - Processes, threads and semaphores
 
 ------------
 
@@ -49,7 +49,6 @@ _____________________________________________________________
 ```
 
 #### Options:
--------------
 
 Option                 | Description
 ---------------------- | ----------------------
