@@ -8,19 +8,19 @@
 
 ------------
 
-### A game engine like Wolfenstein 3D
+## A game engine like Wolfenstein 3D
 
 
-The project was made using raycasting technology and with MinilibX (Simple graphics library)
+The project was made using raycasting technology and with MinilibX (Simple graphics library).
 
 Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
 
 ------------
 #### Build and Run:
 
-- Download the project folder, move there in your terminal and run commands in terminal:
-
 ```
+# Download the project folder, move there in your terminal and run commands in terminal:
+
 > make
 > ./cub3D map.cub
 ```
@@ -29,29 +29,29 @@ Please see <a href="./subject.pdf">subject.pdf</a> for getting the assignments.
 #### Controls:
 
 ```
-W A S D  or ↑↓                   move
-← →                              turn right / turn left
+W A S D  or ↑↓                  # move
+← →                             # turn right / turn left
 ```
 #### Configuration file `map.cub`:
 ```
-Config file called `map.cub` and it must lie at the root of the project
+# Config file called `map.cub` and it must lie at the root of the project
 
-R                                resolution
-C                                ceiling rgb color
-F                                floor rgb color
-NO SO WE EA                      paths to textures
-S                                path to sprite
-                                 empty lines
+R                                # resolution
+C                                # ceiling rgb color
+F                                # floor rgb color
+NO SO WE EA                      # paths to textures
+S                                # path to sprite
+                                 # empty lines
 
-Valid map is surrounded by walls (1) and can contain these characters
+# Valid map is surrounded by walls (1) and can contain these characters
 
-1                                wall
-0                                player can move here
-2                                sprite/item
-N S E W                          player position and view direction
-space                            empty space (player can't see them)
+1                                # wall
+0                                # player can move here
+2                                # sprite/item
+N S E W                          # player position and view direction
+space                            # empty space (player can't see them)
 
-map can't be splitted by empty lines
+# map can't be splitted by empty lines
 ```
 ------------
 
