@@ -82,4 +82,4 @@ Pls see <a href="./subject.pdf">subject.pdf</a> for the assignment<br/><br/>
 * <a href="./libft/ft_findchcount.c">ft_findchcount</a></br>
 * <a href="./libft/ft_sort_str_arr.c">ft_sort_str_arr</a></br>
 * <a href="./libft/ft_strcmp.c">ft_strcmp</a></br>
-* <a href="./libft/ft_int_lenght.c">ft_int_lenght</a></br>
+* <a href="./libft/ft_int_length.c">ft_int_length</a></br>

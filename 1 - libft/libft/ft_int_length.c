@@ -6,9 +6,11 @@
 /*   By: curreg <curreg@student.21-school.ru>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/13 04:02:52 by curreg            #+#    #+#             */
-/*   Updated: 2021/02/13 04:07:36 by curreg           ###   ########.fr       */
+/*   Updated: 2021/02/13 04:15:59 by curreg           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 int	get_int_length(int num)
 {
